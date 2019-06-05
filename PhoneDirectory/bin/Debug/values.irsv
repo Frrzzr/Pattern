@@ -1,0 +1,38 @@
+
+INSERT INTO USERS  (USERNAME,  PASS,      EMAIL)
+			VALUES ('PROJECT', 'EDEN',    'FRAZIERYIRKA@GMAIL.COM'),
+				   ('FROZEN',  'CLOUD',   'REZERYIRKA@GMAIL.COM'),
+				   ('ADMIN',   'ADMIN',   'FREZERYIRGA@GMAIL.COM'),
+				   ('DEFAULT', 'DEFAULT', 'BITOFLANTERN@LANTERN.COM')
+				   
+				   
+INSERT INTO DETAILS_ABOUT_USERS (  Name,                 Nickname,      PhoneNumber,   MobileNumber,  EmailAddress,                 HomeAddress,   Company,          Position,       GroupName,   Website,                    FacebookAccount,   Remarks,   FK_USERNAME) 
+            VALUES
+								('Asegid belew',       'reta',        '224-1234',    '09486013158', '',                           '',           'Gordon College', 'Student',      'Family',    'www.w3school.com',          '',                'Deleted', 'PROJECT'),
+								('Mulualem Gelaw',     'merek',       '224-4321',    '09194298959', 'mulerwello@gmail.com',       '',           'Gordon College', 'Student',      'Family',    'www.ubuntu.com',            '',                '',        'PROJECT'),
+								('Fentaw Hailu',       'kewus',       '2248-154',    '09279816975', 'fentaw.hailu@gmail.com.com', '',           'Gordon College', 'Student',      'Family',    'www.stackoverflow.com',     '',                '',        'PROJECT'),
+								('Frezer Yirga',       'Awtulgn',     '224-1211',    '09995463721', 'frazieryirka@gmail.com',     '',           'Gordon College', 'Student',      'Classmate', 'www.godaddy.com',           '',                '',        'PROJECT'),
+								('Ntsuh Sme',          'ntsi',        '556-777-009', '09498528089', '',                           '',           'MWSI',           'Board Leader', 'Student',   'www.thehiddenwiki.com',     '',                '',        'PROJECT'),
+								('Minilik Demle',      'M',           '777-008-666', '09638838384', '',                           '',           'MWSI',           'Board Leader', 'Student',   'www.torproject.org',        '',                '',        'PROJECT'),
+								('Mandefro Weret',     'manda',       '888-543-123', '09123456782', '',                           '',           'RTW',            'Manager',      'Classmate', 'www.wikihow.com',           '',                '',        'PROJECT'),
+								('Yaregal Bante',      'kewus2',      '123-345-897', '09563893782', '',                           '',           'RTW',            'President',    'Family',    'www.wikileaks.com',         '',                '',        'PROJECT'),
+								('Abdu Gerema',        'Ebdu',        '556-577-444', '09364633738', '',                           '',           'MWSI',           'Manager',      'Family',    'www.thehackersnews.com',    '',                '',        'FROZEN'),
+								('Milion Desalegn',    'serifam',     '556-444-890', '09343434343', '',                           '',           'MC',             'Teacher',      'Family',    'www.hackersonlineclub.com', '',                '',        'FROZEN'),
+								('Mikiyas Eshetu',     'tlanian',     '122-898-566', '09987653321', '',                           '',           'MWSI',           'Manager',      'Family',    'www.github.com',            '',                '',        'FROZEN'),
+								('Abdulaziz Ahmed',    'knche',       '030-777-778', '09345633461', '',                           '',           'RTW',            'Manager',      'Student',   'www.softonic.com',          '',                '',        'FROZEN'),
+								('Usman Seid',         'capitain',    '568-333-999', '09373773733', '',                           '',           'RTW',            'Manager',      'Family',    'www.bluehost.com',          '',                '',        'FROZEN'),
+								('Adem Kebede',        'alex',        '888-544-098', '09303030494', '',                           '',           'MWSI',           'Teacher',      'Classmate', 'www.digitalocean.com',      '',                '',        'FROZEN'),
+								('Alemayehu Mulugeta', 'Kiko',        '743-344-466', '09236464747', '',                           '',           'RTW',            'Manager',      'Family',    'www.archlinux.org',         '',                '',        'FROZEN'),
+								('Eden Alive',         'edu',         '443-775-544', '09373222227', '',                           '',           'MWSI',           'President',    'Family',    'www.wordpress.com',         '',                '',        'FROZEN'),
+								('Heaven Here',        'hevi',        '003-344-005', '09444449223', '',                           '',           'RTW',            'President',    'Classmate', 'www.quircky.com',           '',                '',        'FROZEN'),
+								('Markan Markon',      'mar',         '000-000-000', '32904823906', '',                           '',           'KKK',            'President',    'Classmate', 'www.yenepay.com',           '',                '',        'FROZEN');
+								
+								
+						
+INSERT INTO Developers(ID,              NAME,           DEPARTMENT,           PHONE,    COURSE,                    DUE_DATE,  PROJECT_NAME,               WEBSITE)
+			VALUES    ('WOUR/4845/10', 'FREZER YIRGA',  'INFORMATION SYSTEM', 8974585, 'EVENT DRIVEN PROGRAMMING', '9/10/19', 'DIGITAL MULTI-USER PHONE DIRECTORY SYSTEM', 'https://github.com/Frrzzr/Pattern'),
+			          ('WOUR/1/10',    'YAREGAL BANTE', 'INFORMATION SYSTEM', 8974585, 'EVENT DRIVEN PROGRAMMING', '9/10/19', 'DIGITAL MULTI-USER PHONE DIRECTORY SYSTEM', 'https://github.com/Frrzzr/Pattern'),
+				      ('WOUR/2/10',    'NATI',          'INFORMATION SYSTEM', 8974585, 'EVENT DRIVEN PROGRAMMING', '9/10/19', 'DIGITAL MULTI-USER PHONE DIRECTORY SYSTEM', 'https://github.com/Frrzzr/Pattern'),
+				      ('WOUR/3/10',    'BRHANU',        'INFORMATION SYSTEM', 8974585, 'EVENT DRIVEN PROGRAMMING', '9/10/19', 'DIGITAL MULTI-USER PHONE DIRECTORY SYSTEM', 'https://github.com/Frrzzr/Pattern'),
+				      ('WOUR/4/10',    'BELETE',        'INFORMATION SYSTEM', 8974585, 'EVENT DRIVEN PROGRAMMING', '9/10/19', 'DIGITAL MULTI-USER PHONE DIRECTORY SYSTEM', 'https://github.com/Frrzzr/Pattern'),
+				      ('WOUR/5/10',    'MULUKEN',       'INFORMATION SYSTEM', 8974585, 'EVENT DRIVEN PROGRAMMING', '9/10/19', 'DIGITAL MULTI-USER PHONE DIRECTORY SYSTEM', 'https://github.com/Frrzzr/Pattern')

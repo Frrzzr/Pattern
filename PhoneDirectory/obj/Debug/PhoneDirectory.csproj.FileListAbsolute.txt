@@ -1,0 +1,116 @@
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\bin\Debug\MySql.Data.DLL
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_add.resources
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_dev.resources
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_prev.resources
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_update.resources
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Users\Alex\Documents\C #\CMS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_add.resources
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_dev.resources
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_prev.resources
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_update.resources
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Users\Kiot\Pictures\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_add.resources
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_dev.resources
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_prev.resources
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_update.resources
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+F:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_add.resources
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_dev.resources
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_prev.resources
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.frm_update.resources
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+D:\frezer\phonedirectory_2\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.exe
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.pdb
+C:\Users\Kiot\Desktop\bin\Debug\PhoneDirectory.exe
+C:\Users\Kiot\Desktop\bin\Debug\PhoneDirectory.pdb
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.Form1.resources
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.frm_add.resources
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.frm_dev.resources
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.frm_prev.resources
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.frm_update.resources
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Users\Kiot\Desktop\obj\Debug\PhoneDirectory.welcome.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.exe
+F:\Excutables\phona\obj\Debug\PhoneDirectory.pdb
+F:\Excutables\phona\bin\Debug\PhoneDirectory.exe
+F:\Excutables\phona\bin\Debug\PhoneDirectory.pdb
+F:\Excutables\phona\obj\Debug\PhoneDirectory.Form1.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.frm_add.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.frm_dev.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.frm_prev.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.frm_update.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.Properties.Resources.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.welcome.resources
+F:\Excutables\phona\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+E:\Excutables\phona\obj\Debug\PhoneDirectory.exe
+E:\Excutables\phona\obj\Debug\PhoneDirectory.pdb
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+F:\Excutables\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+F:\Excutables\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.welcome.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+E:\Excutables\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+E:\Excutables\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.welcome.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+G:\Excutables\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+G:\Excutables\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.frm_add.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.frm_dev.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.frm_prev.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.frm_update.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.welcome.resources
+G:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PDirectory.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_add.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_dev.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_prev.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_update.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PDirectory.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_add.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_dev.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_prev.resources
+E:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.PD_update.resources
+F:\Excutables\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
